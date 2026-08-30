@@ -9,7 +9,6 @@
 606745312 
 550259235 
 114875427
-
 //=================================================================
 2929304350
 {
@@ -18,113 +17,89 @@
       };
 }
 //=================================================================
+611289500
 {
         'name': Justine Larin,
         'date': Expired in September 21,
       };
 }
-409C2DC1A7212E2EC71D85C207D2930F98D9D8728E843B35627E0B79E105B13D
+//===============================================================
+611289500
 {
         'name': SERVER,
         'date': NO Expired,
       };
 }
-A672C95CA26E7029399251893891FCB899C9EE4784A32C0082176EF25FC75F20
-{
-        'name': Ralph Alcantara Knives Out,
-        'date': NO Expired,
-      };
-}
-473195E889892A28A2D46263D0DB8BB74EE83395D1BD1AA147127B9DBF8FA863
-{
-        'name': Ralph Alcantara Knives Out,
-        'date': NO Expired,
-      };
-}
-2B02F5FEC1F3F4EF610FA3DA93DCA8B0FD0EA0884569EB2D6730F009B3502994
-{
-        'name': Ralph Alcantara Knives Out,
-        'date': NO Expired,
-      };
-}
-CBEFB552042F35B7B6A0C5D09A2FC7500B626123D11CB88C3A1D30067EE600E7
-{
-        'name': Ralph Alcantara Knives Out,
-        'date': NO Expired,
-      };
-}
-BF991B098747740313ED331BC335E9FA6F16ECD848DCC3E9850D45AADB60FE02
-{
-        'name': Ralph Alcantara Knives Out,
-        'date': NO Expired,
-      };
-}
-82DDCBA3DCDAAFD387221729A31467BCD885311884A699DE82793876328952BC
+//===============================================================
 {
         'name': Richard Cabile,
         'date': Sept 7 2026,
       };
 }
+//==========================================================================================
 C8EE63CA465C618DFC96CB4119DCBF85EA1FBAF2C595792E679A3BA9AC030030
 {
         'name': Raymundo Cedric Chua,
         'date': September 10 Expired
       };
 }
+//==========================================================================================
 8195FF99230B7A320F3BC7BDEA1B65ED96E572F522690671D5D94697B3E169DA
 {
         'name': Raymundo Chardine,
         'date': September 6 Expired
       };
 }
+//==========================================================================================
 E580BBD32EAFDE66F84ED959A5E1DF92829D7AAEB6E9539BDE658BFFE69C48623D
 {
         'name': Jose Jr Ludovicel,
         'date': September 1 Expired
       };
 }
+//==========================================================================================
 C268C267BA5B3646A3EB82DE494EF83199E79DCBF311E2AC604D831453533EF1
 {
         'name':Quin Bns,
         'date':September 5 Expired,
       };
 }
+//==========================================================================================
 1B627DE35BF79231B8A9C0814E6C52B3C834DB442C88F0308CC29894455CE28A
 {
         'name': Carlo Delacruz,
         'date': September 9 Expired,
       };
 }
+//==========================================================================================
 87C28422B82251C4A612F321A52EE70D11935E21D5C308E749F97576EFD7D801
 {
         'name':Klint Matilos,
         'date':Sep 4 2026,
       };
 }
+//==========================================================================================
 82C6FC8C47D7AF64F3ED11602F2DB748F950300B5923CED9E98A2937FD7DF771
 {
         'name': Client of Joy Morato Saligumba,
         'date': September 9  Expired,
       };
 }
+//==========================================================================================
 4A62749B6D8175C65050F13AA300936689CB5F56B24987DCE6529339B5727311
 {
         'name': Client of Joy Morato Saligumba,
         'date': September 4  Expired,
       };
 }
-D0CA2B0C51A5AC34129513DA01B47A4D73419269ED9F81C7BCD4CE4FA8C99E69
-{
-        'name': Client of Joy Morato Saligumba,
-        'date': Aug 28 2026,
-      };
-}
+//==========================================================================================
 021E9AB968F9E6BAD27523B33177DF21B2CB95F5B2A7B77586B84AB0F91A8AA8
 {
         'name': Client of Joy Morato Saligumba,
         'date':September 4 2026 Expired,
       };
 }
+//==========================================================================================
 0797A7E9FCD1EA20BAE5519834926916506B75E3B7D8D28B706C854CC949E795
 {
         'name': Client of Joy Morato Saligumba,
@@ -137,24 +112,21 @@ D0CA2B0C51A5AC34129513DA01B47A4D73419269ED9F81C7BCD4CE4FA8C99E69
         'date': September 3  Expired,
       };
 }
+//==========================================================================================
 07BCD538FFD3716759E0FD68F12991DB72E59E9228DFA0D69854D2A273CCD46B
 {
         'name': Marietta Bercasio,
         'date': Expired September 22 2026,
       };
 }
+//==========================================================================================
 D0A08D53066D3D2DB46C1219B8A188B18D28CFC3AD91AA4E5F247B462245D13D
 {
         'name': Kim Vergara,
         'date': September 7 2026 Expired,
       };
 }
-C189C69AFA256BA3E73EC4721AA6796457A978996AC21018FF73D5E31627BC99
-{
-        'name': Jay Carag,
-        'date': Expired  August 39 2026,
-      };
-}
+//==========================================================================================
 358737b2066191e6e14bfdd0f1223ab0b2a6f7d442bc83b5ceb09960727f2e96
 2B52D9818154BCE62A5A03FA83DA33462A43361BC8194440E2D308DE46C0569E
 {
@@ -162,77 +134,63 @@ C189C69AFA256BA3E73EC4721AA6796457A978996AC21018FF73D5E31627BC99
         'date':Aug 21 2026 Expired,
       };
 }
+//==========================================================================================
 B202169C9ED350E3AF49A5912CE0FFF7C4E5B5EFB25B99AFE7DCE28FE3541530
 {
         'name': Israel Cunanan Rivera,
         'date': September 30 2026 Expired,
       };
 }
+//==========================================================================================
 8FD9E4CF4609BF610CA4D4FDA429030536B525002B3F9A6E59E1AA2DF6FA5E43
 {
         'name': Jhay Em Sii,
         'date': September 24 2026 Expired,
       };
 }
+//==========================================================================================
 80594461
 {
         'name': Jhay Jhay,
         'date': September 24 2026 Expired,
       };
 }
+//==========================================================================================
 AD02A90927BF58B4932894A2C750671713B25E6FC8E5A16EE66D60F7D82B4EAA
 {
         'name': Kim Vergara,
         'date': September 7 2026 Expired,
       };
 }
+//==========================================================================================
 62E405159D3C608F57EABEB714BE1DE327D984E848131231BB4E4D27299E8BF1
 {
         'name': Rey Loremia,
         'date': September 18 2026 Expired,
       };
 }
+//==========================================================================================
 14123761
 {
         'name': Joy Morato Saligumba,
         'date': NO Expired,
       };
 }
-{
-        'name': Joy Morato Saligumba,
-        'date': NO Expired,
-      };
-}
+//==========================================================================================
 4E5AF1C431E2E86628612549ADA5FD0A
 {
         'name': Client of Joy Morato Saligumba,
         'date': September 3 2026 Expired,
       };
 }
-3716176FAFF5E6765C467A2165EE1B3A40DC9F9B2C03276BC93042330E2909EA
-{
-        'name': Ronezy5,
-        'date': August 30 2026 Expired,
-      };
-}
-8A4C01E2ED66BD2961CD04D965596E847466A09EA73BC490BBB298637729958D
-{
-        'name': Ronezy4,
-        'date': August 30 2026 Expired,
-      };
-}
+//==========================================================================================
 33A99EA95B6C5B69CF664C78A559C9A662409F88F7A199344AE6AA28A66E6568
 {
         'name': Kenth Zuriel Presbitero,
         'date': September 3 2026 Expired,
       };
 }
-088283D98CC7F0BCFE41B57CB390ADE5B54EE6D9CAB84D498AE189A4E1742EEA
-{
-        'name': Andrei Bryan Santos,
-        'date': August 30 2026 Expired,
-      };
-}
+//==========================================================================================
 1784944021
 {
         'name': Stev Ven,
