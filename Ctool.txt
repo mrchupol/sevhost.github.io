@@ -176,12 +176,6 @@
         'date':September 4 2026 Expired,
       };
 }
-3E05650B4BB180F147359B2C6F6421AB5DBCDFC908A9443AF65E0363BA8FA1F3
-{
-        'name': Client of Joy Morato Saligumba,
-        'date': September 3  Expired,
-      };
-}
 //==========================================================================================
 3225701611
 {
