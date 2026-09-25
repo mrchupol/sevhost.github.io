@@ -112,7 +112,7 @@
 3724544537
 {
         'name':Client Joy Morato Saligumba,
-        'date': Expired in Oct 4,
+        'date': Expired in Oct 8,
       };
 }
 //=============================================================================
