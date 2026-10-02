@@ -96,14 +96,6 @@ A5B8-429AF174
         'date':OCt 22
       };
 }
-//-----------------------------------------
-B28D-9CFFF8BE
-DFF6-9CFFF8BE
-{
-        'name'John Paul Kimberly Vergara,
-        'date':Oct 2,
-      };
-}
 //----------------------------------------
 60AB-CDA3D134
 {
@@ -144,21 +136,6 @@ F165-760521B9
 {
         'name':Joshua Acaso,
         'date': Expired in October 4
-      };
-}
-//==========================================
-6F17-F5666250
-{
-        'name':Client Joy Morato Saligumba,
-        'date': Expired in Oct 2,
-      };
-}
-//=========================================
-1953439581
-0840-F8B35586
-{
-        'name':Larry Fausto II,
-        'date': Expired in  OCT 1,
       };
 }
 //========================================
