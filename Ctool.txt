@@ -76,13 +76,6 @@
         'date': Expired   OCt 29,
       };
 }
-//====================================
-1959688885
-{
-        'name' John Oliver B. Berces,
-        'date': Expired   OCt 7,
-      };
-}
 //======================================
 3167372550
 {
@@ -147,13 +140,6 @@
         'date': knives Out Oct 8,
       };
 }
-//======================================
-246270307
-{
-        'name': Justine Larin,
-        'date': Expired in OCT 6,
-      };AZ
-}
 //=======================================
 3724544537
 {
@@ -194,13 +180,6 @@
 {
         'name': Sittie Macawaris,
         'date':PointBlank Expired in OCT 11,
-      };
-}
-//====================================
-246270307
-{
-        'name': Justine Larin,
-        'date': PointBlank Expired in OCT 6,
       };
 }
 //=====================================
