@@ -139,20 +139,6 @@
         'date': OCt 9  Knves Out,
       };
 }
-//======================================
-2126636487
-{
-        'name':Mark Joseph Simene,
-        'date': knives Out Oct 8,
-      };
-}
-//=======================================
-3724544537
-{
-        'name':Client Joy Morato Saligumba,
-        'date': Expired in Oct 8,
-      };
-}
 //=====================================
 611289500
 {
