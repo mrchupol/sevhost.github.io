@@ -178,7 +178,7 @@
 1758774633
 {
         'name': Sittie Macawaris,
-        'date':PointBlank Expired in OCT 11,
+        'date': PointBlank Expired in NOV 11,
       };
 }
 //=====================================
