@@ -146,13 +146,6 @@
         'date': Expired Oct 25,
       };
 }
-//=======================================
-3705569319
-{
-        'name':Israel Cunanan Rivera Client,
-        'date': OCt 9  Knves Out,
-      };
-}
 //=====================================
 611289500
 {
@@ -165,13 +158,6 @@
 {
         'name': Marietta Bercasio,
         'date': Expired September 22 2026,
-      };
-}
-//======================================
-2254431602
-{
-        'name': Israel Cunanan Rivera Knives out,
-        'date':Aug 21 2026 Expired,
       };
 }
 //=====================================
