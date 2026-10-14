@@ -12,13 +12,6 @@
         'name' SERVER,
         'date': 
 }
-//========================================
-514103471
-{
-          'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  OCT 14,
-      };
-}
 //-------------------------------------------------------------
 1590881190
 {
@@ -34,52 +27,11 @@
       };
 }
 //========================================
-92AC-F1B0025F
-807575045
-{
-          'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  OCT 14,
-      };
-}
-//========================================
-3081-B30F5B86
-E1BE-B30F5B86
-5664635
-{
-          'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  OCT 14,
-      };
-}
-/
-//========================================
-20A4-04246C17
-514103471
-{
-          'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  OCT 14,
-      };
-}
-//========================================
-1181480582
-{
-        'name'Jay Carag,
-        'date': Expired  Crossfire  OCT 14,
-      };
-}
-//========================================
 6F17-F5666250
 2692390901
 {
         'name'Mark Anthony Elacion,
         'date': Expired  Crossfire  NOV 4,
-      };
-}
-//========================================
-778974345
-66C3-0BF83F28
-{
-        'name'Orlien Nadime,
-        'date': Expired   OCt 13,
       };
 }
 //========================================
