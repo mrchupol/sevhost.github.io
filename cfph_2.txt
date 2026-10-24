@@ -10,7 +10,7 @@
 1792896322
 {
        'name':SERVER,
-        'date': Expired  Crossfire  OCT 25,
+        'date': Expired  Crossfire  OCT 23,
       };
 }
 //======================================
