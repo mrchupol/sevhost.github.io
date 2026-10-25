@@ -149,7 +149,7 @@
 14123761
 {
         'name': Joy Morato Saligumba,
-        'date': NO Expired,
+        'date': Expired CROSSFIRE NOV 4,
       };
 }
 
