@@ -100,7 +100,7 @@
 3700504893
 {
         'name':SELLER ,
-        'date': Expired  Crossfire  OCT 26,
+        'date': Expired  Crossfire  NOV 6,
       };
 }
 //-------------------------------------------------------------
