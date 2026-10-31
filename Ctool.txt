@@ -1,6 +1,13 @@
 1792896322
 3225701611
 //======================================
+1181480582
+{
+       'name':Jay Carag,
+        'date': Expired  Crossfire  NOV 9,
+      };
+}
+//======================================
 2188102516
 {
        'name':Jyue Trillanes,
@@ -127,20 +134,6 @@
       };
 }
 //======================================
-807575045
-{
-       'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  OCT 30,
-      };
-}
-//======================================
-3724544537
-{
-        'name'Leogene Esguerra,
-        'date': Expired  Crossfire  OCT 30,
-      };
-}
-//======================================
 135747521
 {
        'name':Client gyy,
@@ -154,33 +147,7 @@
         'date': Expired  ROS  NOV 30,
       };
 }
-//======================================
-1181480582
-{
-       'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  OCT 30,
-      };
-}
-//========================================
-3700504893
-{
-        'name':SELLER ,
-      };
-}
-//========================================
-2551940214
-{
-          'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  OCT 29,
-      };
-}
-//======================================
-778974345
-{
-        'name'Orlien Nadime,
-        'date': Expired  Crossfire  OCT 27,
-      };
-}
+
 //========================================
 2157224641
 {
@@ -244,41 +211,6 @@
         'date': Expired  Crossfire  NOV 4,
       };
 }
-//========================================
-3294482525
-{
-        'name'Edcel Pulvera,
-        'date': Expired   OCt 29,
-      };
-}
-//========================================
-1314540895
-{
-        'name' Acezkie Maglente,
-        'date': Expired   OCt 29,
-      };
-}
-//======================================
-3167372550
-{
-        'name' Edd Gonzales,
-        'date':Septem 30,
-      };
-}
-//=========================================
-516238872
-{
-        'name'Ronan Jay Noro,
-        'date':OCt 26
-      };
-}
-//======================================
-4034416235
-{
-        'name'Cedric Chua,
-        'date':OCt 23
-      };
-}
 //=======================================
 2051334442
 {
@@ -291,13 +223,6 @@
 {
         'name' Shun Antolin,
         'date':SHOP  Knive Out Expired NOv 17,
-      };
-}
-//======================================
-2929304350
-{
-        'name' La Gidl,
-        'date': Expired Oct 25,
       };
 }
 //=====================================
@@ -348,4 +273,4 @@
         'name' Kent Palmagil,
         'date': Expired PointBlank  Nov 5,
       };
-}1583266696
+}
