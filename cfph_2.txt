@@ -110,27 +110,6 @@
         'date': Expired  Crossfire  OCT 30,
       };
 }
-//======================================
-1181480582
-{
-       'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  OCT 30,
-      };
-}
-//========================================
-2551940214
-{
-          'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  OCT 29,
-      };
-}
-//========================================
-778974345
-{
-        'name'Orlien Nadime,
-        'date': Expired  Crossfire  OCT 27,
-      };
-}
 //========================================
 2689673080
 {
@@ -157,20 +136,6 @@
 {
         'name'Mark Anthony Elacion,
         'date': Expired  Crossfire  NOV 4,
-      };
-}
-//========================================
-3294482525
-{
-        'name'Edcel Pulvera,
-        'date': Expired   OCt 29,
-      };
-}
-//========================================
-1314540895
-{
-        'name' Acezkie Maglente,
-        'date': Expired   OCt 29,
       };
 }
 //=========================================
