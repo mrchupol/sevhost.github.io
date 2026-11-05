@@ -76,31 +76,10 @@
       };
 }
 //========================================
-1178757681
-{
-        'name':Zery Rotolez Client,
-        'date': Expired CROSSFIRE NOV 4,
-      };
-}
-//========================================
-3468350139
-{
-        'name':Zery Rotolez Client,
-        'date': Expired CROSSFIRE NOV 4,
-      };
-}
-//========================================
 49619527
 {
         'name':クマーマ ソンルンマー,
         'date': Expired  CROSSFIRE  NOV 7,
-      };
-}
-//========================================
-2551781879
-{
-        'name':Jacob Escaño,
-        'date': Expired  CROSSFIRE  NOV 2,
       };
 }
 //========================================
@@ -115,27 +94,6 @@
 {
        'name':Marietta Bercasio,
         'date': Expired   NOV 23,
-      };
-}
-//======================================
-1792896322
-{
-       'name':SERVER,
-        'date':NO Expired,
-      };
-}
-//======================================
-807575045
-{
-       'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  OCT 30,
-      };
-}
-//======================================
-3724544537
-{
-        'name'Leogene Esguerra,
-        'date': Expired  Crossfire  OCT 30,
       };
 }
 //========================================
@@ -170,7 +128,7 @@
 14123761
 {
         'name': Joy Morato Saligumba,
-        'date': Expired CROSSFIRE NOV 4,
+         'date':NO Expired,
       };
 }
 
