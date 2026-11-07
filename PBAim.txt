@@ -5,15 +5,6 @@
         'date': PointBlank Expired in DEC 1,
       };
 }
-
-//====================================
-2120141429
-{
-        'name' Kent Palmagil,
-        'date': Expired PointBlank  Nov 5,
-      };
-}
-
 //====================================
 199495848
 {
@@ -40,13 +31,6 @@
 {
           'name':Justin larin,
         'date': Expired  PointBlank Dec 6
-      };
-}
-//====================================
-2120141429
-{
-        'name' Kent Palmagil,
-        'date': Expired PointBlank  Nov 5,
       };
 }
 //=========================================
