@@ -2,7 +2,7 @@
 1685299858
 {
         'name':Zery Rotolez Client,
-        'date': Expired Crossfire NOV 20,
+        'date': Expired Crossfire Dec 7,
       };
 }
 //========================================
