@@ -111,13 +111,6 @@
       };
 }
 //========================================
-2188102516
-{
-        'name':Zery Rotolez Client,
-        'date': Expired ROS NOV 7,
-      };
-}
-//========================================
 199495848
 {
         'name': SERVER,
@@ -157,12 +150,5 @@
 {
           'name':Lamela LJ,
         'date': Expired  ROS  Nov 12,
-      };
-}
-//========================================
-1129951604
-{
-        'name':Jose Jr Ludovice,
-        'date': Expired in November 6,
       };
 }
