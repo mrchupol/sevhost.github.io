@@ -9,7 +9,7 @@
 2693874395
 {
         'name':Zery Rotolez Client,
-        'date': Expired ROS Dec 10,
+        'date': Expired ROS Nov 16,
       };
 }
 //========================================================
