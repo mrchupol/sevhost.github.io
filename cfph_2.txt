@@ -69,59 +69,10 @@
       };
 }
 //======================================
-2188102516
-{
-       'name':Jyue Trillanes,
-        'date': Expired  Crossfire  NOV 7,
-      };
-}
-//======================================
 1257528664
 {
        'name':Client gyy,
         'date': Expired  Crossfire  NOV 11,
-      };
-}
-//========================================
-2418307370
-{
-        'name':Zery Rotolez Client,
-        'date': Expired CROSSFIRE NOV 7,
-      };
-}
-//======================================
-1685299858
-{
-       'name':Client gyy,
-        'date': Expired  Crossfire  NOV 7,
-      };
-}
-//========================================
-618693963
-{
-        'name':Märvin Ölleuser,
-        'date': Expired  CROSSFIRE  NOV 7,
-      };
-}
-//========================================
-2149721931
-{
-        'name':Zery Rotolez Client,
-        'date': Expired CROSSFIRE NOV 6,
-      };
-}
-//========================================
-49619527
-{
-        'name':クマーマ ソンルンマー,
-        'date': Expired  CROSSFIRE  NOV 7,
-      };
-}
-//========================================
-680430279
-{
-        'name':Jasper Marucot,
-        'date': Expired  Crossfire NOV 6,
       };
 }
 //======================================
