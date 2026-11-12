@@ -40,13 +40,6 @@
         'date': Expired Crossfire Dec 7,
       };
 }
-//========================================
-2485423641
-{
-       'name':Client gyy,
-        'date': Expired  Crossfire  NOV 13,
-      };
-}
 //====================================
 199495848
 {
@@ -69,20 +62,6 @@
       };
 }
 //======================================
-1181480582
-{
-       'name':Jay Carag,
-        'date': Expired  Crossfire  NOV 9,
-      };
-}
-//======================================
-1257528664
-{
-       'name':Client gyy,
-        'date': Expired  Crossfire  NOV 11,
-      };
-}
-//======================================
 3225701611
 {
        'name':Marietta Bercasio,
@@ -101,13 +80,6 @@
 {
         'name':Zery Rotolez,
         'date':NO Expired,
-      };
-}
-//-------------------------------------------------------------
-1590881190
-{
-          'name':Client Joy Morato Saligumba,
-        'date': Expired  Crossfire  NOV 11,
       };
 }
 //========================================
