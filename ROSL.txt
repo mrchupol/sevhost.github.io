@@ -180,10 +180,3 @@
         'date': Expired  ROS  Nov 16,
       };
 }
-//========================================
-582304161
-{
-          'name':Lamela LJ,
-        'date': Expired  ROS  Nov 12,
-      };
-}
