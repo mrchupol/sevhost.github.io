@@ -19,13 +19,7 @@
         'date':NO Expired,
       };
 }
-//=====================================
-3326177980
-{
-        'name': Jhay-ar Iglopas Villamor Jr.,
-        'date': PointBlank Expired in NOV 11,
-      };
-}
+
 //==========================================
 246270307
 {
