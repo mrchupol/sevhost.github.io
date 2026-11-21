@@ -2,7 +2,7 @@
 1714888737
 {
         'name':Zery Rotolez Client,
-        'date': Expired Ros Nov 29,
+        'date': Expired Ros Dec 20,
       };
 }
 //====================================================
