@@ -136,7 +136,7 @@
 4274096752
 {
         'name':Zery Rotolez Client,
-        'date': Expired ROS Dec 9, 2026,
+        'date': Expired ROS Jan 9, 2027,
       };
 }
 //========================================
