@@ -105,20 +105,6 @@
       };
 }
 //========================================
-512942640
-{
-        'name':Zery Rotolez Client,
-        'date': Expired ROS Nov 21,
-      };
-}
-//==========================================
-2523000746
-{
-        'name':Zery Rotolez Client,
-        'date': Expired ROS Nov 21,
-      };
-}
-//========================================
 14123761
 {
         'name': Joy Morato Saligumba,
@@ -126,31 +112,10 @@
       };
 }
 //========================================
-3794755686
-{
-        'name':Zery Rotolez Client,
-        'date': Expired ROS Nov 21,
-      };
-}
-//========================================
-1647995357
-{
-        'name':Zery Rotolez Client,
-        'date': Expired ROS Nov 21,
-      };
-}
-//========================================
 1362693094
 {
         'name':Ansari,
         'date': Expired ROS Dec 12,
-      };
-}
-//========================================
-943456621
-{
-        'name':Zery Rotolez Client,
-        'date': Expired ROS Nov 21,
       };
 }
 //========================================
@@ -172,20 +137,6 @@
 {
         'name':Zery Rotolez Client,
         'date': Expired ROS Dec 9,
-      };
-}
-//========================================
-1685299858
-{
-        'name':Zery Rotolez Client,
-        'date': Expired ROS NOV 20,
-      };
-}
-//========================================
-1352740142
-{
-        'name':Zery Rotolez Client,
-        'date': Expired ROS NOV 19,
       };
 }
 //========================================
