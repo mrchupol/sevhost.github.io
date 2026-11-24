@@ -1,25 +1,17 @@
 //=====================================
 1758774633
 {
-        'name': KSA-Khalif,
+        'name':KSA-Khalif,
         'date': PointBlank Expired in Dec 12, 2026,
       };
 }
 //========================================
 790209792
 {
-        'name': Mahiwagang Pogi,
+        'name':Mahiwagang Pogi,
         'date': PointBlank Expired in DEC 1, 2026,
       };
 }
-//====================================
-199495848
-{
-        'name' SERVER,
-        'date': PointBlank Expired in DEC 1, 2026,
-      };
-}
-
 //==========================================
 246270307
 {
@@ -29,7 +21,7 @@
 //=========================================
 1784944021
 {
-        'name': Stev Ven,
+        'name':Stev Ven,
         'date': PointBlank Expired in Jan 22, 2027,
       };
 }
