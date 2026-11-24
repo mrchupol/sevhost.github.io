@@ -2,14 +2,14 @@
 1758774633
 {
         'name': KSA-Khalif,
-        'date': PointBlank Expired in Dec 12,
+        'date': PointBlank Expired in Dec 12, 2026,
       };
 }
 //========================================
 790209792
 {
         'name': Mahiwagang Pogi,
-        'date': PointBlank Expired in DEC 1,
+        'date': PointBlank Expired in DEC 1, 2026,
       };
 }
 //====================================
@@ -24,13 +24,12 @@
 246270307
 {
           'name':Justin larin,
-        'date': Expired  PointBlank Dec 6
-      };
+        'date': Expired  PointBlank Dec 6, 2026,
 }
 //=========================================
 1784944021
 {
         'name': Stev Ven,
-        'date': PointBlank Expired in Dec 22,
+        'date': PointBlank Expired in Jan 22, 2027,
       };
 }
