@@ -205,7 +205,7 @@
 //========================================
 199495848
 {
-          'name':SERVER,
-       'date': Expired ROS Jan 9, 2027,
+         'name':SERVER,
+        'date':NO Expired,
       };
 }
