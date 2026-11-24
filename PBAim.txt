@@ -28,7 +28,7 @@
 //====================================
 199495848
 {
-        'name'SERVER,
+        'name':SERVER,
         'date': PointBlank Expired in DEC 1, 2026,
       };
 }
