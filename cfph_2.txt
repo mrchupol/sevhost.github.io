@@ -9,105 +9,35 @@
 3057122049
 {
         'name':Kazeo,
-        'date': Expired Crossfire Dec 22,
+        'date': Expired Crossfire Dec 22, 2026,
       };
 }
 //======================================================
 3126406964
 {
         'name':Zery Rotolez Client,
-        'date': Expired Crossfire Dec 1,
+        'date': Expired Crossfire Dec 1, 2026,
       };
 }
 //======================================================
 1714888737
 {
         'name':Zery Rotolez Client,
-        'date': Expired Crossfire Nov 27,
+        'date': Expired Crossfire Nov 27, 2026,
       };
 }
 //======================================
 514103471
 {
        'name':Zery Rotolez Client,
-        'date': Expired Crossfire Nov 28,
+        'date': Expired Crossfire Nov 28, 2026,
       };
 }
 //========================================================
 1257528664
 {
          'name':Client gyy,
-        'date': Expired Crossfire Dec 18,
-      };
-}
-//======================================
-2418307370
-{
-       'name':Zery Rotolez Client,
-        'date': Expired Crossfire Nov 25,
-      };
-}
-//======================================
-3468350139
-{
-       'name':Zery Rotolez Client,
-        'date': Expired Crossfire Nov 25,
-      };
-}
-//======================================
-620707403
-{
-       'name':Zery Rotolez Client,
-        'date': Expired Crossfire Nov 24,
-      };
-}
-//======================================
-2149721931
-{
-       'name':Zery Rotolez Client,
-        'date': Expired Crossfire Nov 23,
-      };
-}
-//======================================
-3340087968
-{
-        'name':Zery Rotolez Client,
-        'date': Expired Crossfire Nov 23,
-      };
-}
-//======================================
-239981721
-{
-        'name':Zery Rotolez Client,
-        'date': Expired Crossfire Nov 22,
-      };
-}
-//======================================
-5232160
-{
-       'name':Client gyy,
-        'date': Expired Crossfire Nov 22,
-      };
-}
-//========================================================
-3026133841
-{
-        'name':Jun-jun Marquez Orbiso,
-        'date': Expired Crossfire NOV 23,
-      };
-}
-//========================================================
-2693874395
-{
-        'name':Zery Rotolez Client,
-        'date': Expired Crossfire Nov 21,
-      };
-}
-//========================================================
-888847708
-{
-        'name':Zery Rotolez Client,
-        'date': Expired Crossfire NOV 19,
+        'date': Expired Crossfire Dec 18, 2026,
       };
 }
 //========================================================
@@ -130,41 +60,6 @@
 {
         'name':Zery Rotolez Client,
         'date': Expired Crossfire Dec 7,
-      };
-}
-//====================================
-1984456561
-{
-        'name':SERVER,
-       'date': Expired Jan 5, 2027,
-      };
-}
-//========================================
-3289088360
-{
-       'name':Gab Gallardo,
-        'date': Expired  Crossfire  NOV 16,
-      };
-}
-//========================================
-514103471
-{
-       'name':Mart Dela Vega,
-        'date': Expired  Crossfire  NOV 17,
-      };
-}
-//======================================
-3225701611
-{
-       'name':Marietta Bercasio,
-        'date': Expired   NOV 23,
-      };
-}
-//========================================
-2689673080
-{
-          'name':John dave,
-        'date': Expired  Crossfire  NOV 14,
       };
 }
 //========================================
