@@ -44,7 +44,7 @@
 618693963
 {
         'name':Märvin Ölleuser,
-        'date': Expired Crossfire Dec 8,
+        'date': Expired Crossfire Dec 8, 2026,
       };
 }
 //========================================================
@@ -52,14 +52,14 @@
 749522566
 {
         'name':Kenth Zuriel Presbitero,
-        'date': Expired Crossfire Nov 27,
+        'date': Expired Crossfire Nov 27, 2026,
       };
 }
 //========================================================
 1685299858
 {
         'name':Zery Rotolez Client,
-        'date': Expired Crossfire Dec 7,
+        'date': Expired Crossfire Dec 7, 2026,
       };
 }
 //========================================
@@ -73,7 +73,7 @@
 2692390901
 {
         'name'Mark Anthony Elacion,
-        'date': Expired  Crossfire  DEC 5,
+        'date': Expired  Crossfire  DEC 5, 2026,
       };
 }
 //=========================================
