@@ -18,6 +18,6 @@
 199495848
 {
         'name' SERVER,
-        'date':NO Expired,
+        'date': Expired Crossfire Jan 5, 2027,
       };
 }
