@@ -16,7 +16,7 @@
 2934065463
 {
         'name':Zery Rotolez Client,
-        'date': Expired Ros Jan 4, 2027,
+        'date': Expired Ros Dec 4, 2027,
       };
 }
 //======================================================
